@@ -52,7 +52,8 @@ print("Product of two arrays is:", result)
 ~~~ 
 
 ## OUTPUT:
-![output]()
+![output](https://github.com/charansai0/Multiplying-two-matrix/blob/main/Screenshot%20(236).png?raw=true)
 
-## RESULT:
+## RESULT: 
+Hence the numpy module is imported and the programme is succefuuly executed to find the product of two matrices.
 
